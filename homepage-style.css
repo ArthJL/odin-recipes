@@ -1,0 +1,16 @@
+* {
+    font-family: "Lucida Console", "courier New", monospace;
+}
+
+h1 {
+    width: 250px;
+    height: auto;
+    text-align: center;
+    border: 5px dotted rgb(248, 90, 169);
+    padding: 8px;
+    margin: 20px auto;
+}
+.recipes li {
+    font-size: 20px;   
+    margin: 8px auto;
+}
